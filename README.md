@@ -7,3 +7,8 @@
 ## Zod
 - `npm i zod`
 - create `models` dir
+
+## Next Image sizes
+- `https://ausi.github.io/respimagelint/`
+- click `Lint Images` button
+- copy paste recommended sizes
