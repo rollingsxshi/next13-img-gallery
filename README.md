@@ -9,6 +9,9 @@
 - create `models` dir
 
 ## Next Image sizes
-- `https://ausi.github.io/respimagelint/`
-- click `Lint Images` button
+- `respimagelint` chrome extension
+- on page with images, click on extension
 - copy paste recommended sizes
+
+## Plaiceholder
+- `npm i plaiceholder`
