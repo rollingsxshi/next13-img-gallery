@@ -6,4 +6,4 @@
 
 ## Zod
 - `npm i zod`
-- 
+- create `models` dir
